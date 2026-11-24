@@ -3,8 +3,8 @@
 </p>
 
 # `> About`
-### I'am Abdel malek Tammal
-#### I'm a freelance developer and designer who loves crafting clean, thoughtful interfaces and reliable software. I'm deep into Linux, system workflows, and working with AI agents, MCPs, and agentic tooling to build faster and smarter. Always open to interesting freelance projects and collaborations.
+### I'm Abdel malek Tammal
+#### A software engineer and UI/UX designer who cares about speed and craft. I build desktop and web apps with TypeScript, React, Tailwind CSS, Rust, Tauri, and Electron.js. Away from app work, I'm big on Linux and how systems tick—automating workflows with Bash, Lua, and Python, writing Neovim plugins, and crafting my own Hyprland shell in Quickshell.
 `Djelfa, Algeria` - `6 followers` - `29 repo`
 
 <br>
