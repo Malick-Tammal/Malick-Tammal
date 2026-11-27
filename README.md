@@ -98,23 +98,26 @@ made for web development mainly and software development secondary</p>
 
 
 <p align="center">
-  <a href="malick.adamski@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="42" />
+  <a href="mailto:malick.adamski@gmail.com">
+    <img src="https://i.icoziv.workers.dev/icons?i=gmail&shadow=md" alt="Email" width="42" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abdel-malek-tammal-76a575250/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" />
+    <img src="https://i.icoziv.workers.dev/icons?i=linkedin&shadow=md" alt="LinkedIn" width="42" />
   </a>
   &nbsp;
   <a href="https://x.com/MalickTammal">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X / Twitter" width="42" />
+    <img src="https://i.icoziv.workers.dev/icons?i=twitter&shadow=md" alt="X / Twitter" width="42" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/929376552175697960">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="42" />
+    <img src="https://i.icoziv.workers.dev/icons?i=discord&shadow=md" alt="Discord" width="42" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Malick_Tammal">
+    <img src="https://i.icoziv.workers.dev/icons?i=youtube&shadow=md" alt="YouTube" width="42" />
   </a>
 </p>
-
   <br>
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━</p>
